@@ -1,0 +1,6 @@
+name: ReaverPractice
+version: 1.0.0
+api: ["1.0.8"]
+author: Zwuiix
+description: ReaverPractice
+main: src.zwuiix.practice.Loader

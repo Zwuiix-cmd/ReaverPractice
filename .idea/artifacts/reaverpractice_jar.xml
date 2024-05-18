@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="reaverpractice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/reaverpractice_jar</output-path>
+    <root id="archive" name="reaverpractice.jar">
+      <element id="module-output" name="reaverpractice" />
+    </root>
+  </artifact>
+</component>
